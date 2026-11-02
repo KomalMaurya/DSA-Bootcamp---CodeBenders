@@ -1,0 +1,2 @@
+Homework:
+Solve by representing each choice and backtracking step on N - queens problem on a sheet where N = 4 and reach a valid solution.
