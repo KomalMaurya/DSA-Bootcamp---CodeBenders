@@ -1,0 +1,1 @@
+Homework : Write a program which returns the number of valid solutions in an N-Queen problem.
