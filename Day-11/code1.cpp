@@ -38,7 +38,7 @@ void search(int row){ // 4
         diagonal2[d2] = 1;
         search(row+1); // call
         
-        // undo code
+        // undo choice
         column[col] = 0;
         diagonal1[d1] = 0;
         diagonal2[d2] = 0;
