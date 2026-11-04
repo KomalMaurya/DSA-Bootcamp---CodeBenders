@@ -1,0 +1,6 @@
+Homework : Write a program to Create a Custom Linked list and write following methods :
+1 -> Traversal in a LinkedList 
+2 -> Insertion at the head of the LinkedList
+3 -> Insertion after any prev node
+4 -> Insertion after tail of the LinkedList
+5 -> Delete any node from a LinkedList
