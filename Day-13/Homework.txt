@@ -1,0 +1,5 @@
+Homework : Write a program to Create a Custom Linked list and write following methods :
+1 -> Middle node of the LinkedList
+2 -> Detect a cycle in the LinkedList
+3 -> find the length of cycle in the LinkedList
+4 -> find the value of kth node in the LinkedList from the end
